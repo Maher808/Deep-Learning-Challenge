@@ -10,8 +10,8 @@
 
 ## 2) Compiling, Training, and Evaluating the Model:
 
-- Neurons, Layers, and Activation Functions: The model consists of two hidden layers with 80 and 30 neurons, respectively. ReLU activation functions are used in the hidden layers, while the output layer uses a sigmoid activation function to produce binary classification probabilities.
-- Target Model Performance: The target model performance was to achieve an accuracy higher than 75%. However, the final accuracy achieved was approximately 72.54%.
+- Neurons, Layers, and Activation Functions: The model consists of two hidden layers with 10 and 8 neurons, respectively. ReLU activation functions are used in the hidden layers, while the output layer uses a sigmoid activation function to produce binary classification probabilities.
+- Target Model Performance: The target model performance was to achieve an accuracy higher than 75%. However, the best final accuracy achieved was  72.7930 %.
 - Steps to Increase Model Performance: Several steps were taken to increase model performance, including preprocessing techniques such as binning and one-hot encoding, optimizing the neural network architecture, tuning hyperparameters, and standardizing the data. Despite these efforts, the target performance was not achieved.
 
 ## 3) Summary:
